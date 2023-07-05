@@ -36,6 +36,7 @@
 
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
   ![kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+  ![knative](https://img.shields.io/badge/knative-0865AD?style=flat-square&logo=knative&logoColor=white)
   ![Githubactions](https://img.shields.io/badge/githubactions-2088FF?style=flat-square&logo=Githubactions&logoColor=white)
   ![Jenkins](https://img.shields.io/badge/jenkins-4169E1?style=flat-square&logo=Jenkins&logoColor=white)
 

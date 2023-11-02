@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20govl6113!%20😆&fontSize=50&animation=scaleIn)
 
 ## I'm junior back-end developer who likes to be efficient
 - 📝 I’m currently learning ... <br>
